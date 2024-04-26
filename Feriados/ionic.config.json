@@ -1,0 +1,7 @@
+{
+  "name": "Feriados",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
